@@ -1,4 +1,4 @@
-def reverse_text(value):
+def reverse_text(value: str):
 	"""
 	функция по возврату реверснутого текста
 	"""
